@@ -56,7 +56,7 @@ In order to build the library, the following tools need to be installed:
 ## If the build fails
 
 In case the build fails for some reason, please contact the developers by
-opening an issue on GitHub (https://github.com/qmmd/bml/issues) and attach the
+opening an issue on GitHub (https://github.com/lanl/bml/issues) and attach the
 files
 
     build/CMakeFiles/CMakeOutput.log
@@ -87,7 +87,7 @@ a citable DOI:
 with the following `bibtex` snipped:
 
     @misc{bml,
-      url = {\url{https://qmmd.github.io}}
+      url = {\url{https://lanl.github.io/bml}}
       author = {Aradi, B\'{a}lint and Bock, Nicolas and Mniszewski, Susan M.
         and Mohd-Yusof, Jamaludin and Negre, Christian},
       year = 2017
